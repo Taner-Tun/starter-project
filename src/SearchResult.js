@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const SearchResult = ({searchResult}) => {
 
     if (!searchResult || !searchResult.length) {
